@@ -18,7 +18,7 @@ This project is meant to explore a city that suffers from several food deserts, 
 I found my data on the arcgis data hub:
 [Baltimore Neighborhoods, shared by rcsellman](https://en.wikipedia.org/wiki/Food_desert)
 [Baltimore City Food Stores 2016, shared by JHU_CLF](https://hub.arcgis.com/datasets/650fa48f80ae46ef9843171703ff96f0_217?geometry=-76.942%2C39.193%2C-76.296%2C39.379)
-[Baltimore city food desert 2015](https://hub.arcgis.com/datasets/632a058f9a7e4f5baf43dde073db232f_126?geometry=-76.944%2C39.199%2C-76.297%2C39.385)
+[Baltimore city food desert 2015, Shared by JHU_CLF](https://hub.arcgis.com/datasets/632a058f9a7e4f5baf43dde073db232f_126?geometry=-76.944%2C39.199%2C-76.297%2C39.385)
 
 #Libraries
 This webmap use libraries from:
