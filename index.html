@@ -100,7 +100,7 @@
     var food = null;
     food = L.geoJson.ajax("https://opendata.arcgis.com/datasets/650fa48f80ae46ef9843171703ff96f0_217.geojson",
     {
-      attribution: 'Baltimore City Food Stores 2016 &copy; JHU_CLF | Made by Jacob Nelson',
+      attribution: 'Baltimore City Food Stores 2016 &copy; JHU_CLF | Base Map &copy; CartoDB | Made by Jacob Nelson',
       onEachFeature: function (feature, layer) {
           layer.bindPopup("NAME: " + feature.properties.Name + ".  TYPE: " + feature.properties.Type);
       },
